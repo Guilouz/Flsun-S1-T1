@@ -13,5 +13,6 @@ Theme for Mainsail
 
 - Then import the following files into the `.theme` folder:
 
-  main-background.png
-  sidebar-logo.png
+  - main-background.png
+  
+  - sidebar-logo.png
