@@ -30,5 +30,5 @@ Integration of FLSUN S1 in OrcaSlicer
 
 - My configuration integrates the management of bed zones according to the location of the model:
 
-![Bed Control Orca](https://github.com/Guilouz/Flsun-S1/assets/12702322/148171fa-879f-477f-b866-27d09f2a547d)
+  ![Bed Control Orca](https://github.com/Guilouz/Flsun-S1/assets/12702322/148171fa-879f-477f-b866-27d09f2a547d)
 
