@@ -6,7 +6,7 @@ Improved configuration files for FLSUN S1
 ### WHAT’S NEW IN THE IMPROVED VERSION?
 
 - Reorganizing configuration files for clarity.
-- Added `M600` functionnality.
+- Added `M600` functionnality (hotend heating stopped after 15min of inactivity).
 - Added support for `M106 P3 Sxx` to control Chamber Fan with OrcaSlicer.
 - Added `LASER_CALIBRATION` macro.
 - Improved Bed Mesh.
