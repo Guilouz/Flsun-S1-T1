@@ -163,7 +163,7 @@
     ],
     "support_air_filtration": "1",
     "printable_height": "430",
-    "machine_end_gcode": "M107 T0\nM104 S0\nM140 S0\nM104 S0 T1\nG92 E0\nG91\nG1 E-1 F2100\nG1 Z+0.5 F6000\nG28 \nG90\nM84",
+    "machine_end_gcode": "M107 T0\nM104 S0\nM140 S0\nM104 S0 T1\nG92 E0\nG91\nG1 E-1 F2100\nG1 Z+0.5 F6000\nG28 \nG90",
     "machine_start_gcode": "G90\nM82\nG28\n{if (first_layer_print_min[0] > 100 || first_layer_print_max[0] > 100 || first_layer_print_min[1] > 100 || first_layer_print_max[1] > 100 || first_layer_print_min[0] < -100 || first_layer_print_max[0] < -100 || first_layer_print_min[1] < -100 || first_layer_print_max[1] < -100)}M140 S[first_layer_bed_temperature] A1 B1{else}M140 S[first_layer_bed_temperature] A1 B0{endif}\nM104 S[first_layer_temperature] T0\nM107 T0\nM109 S[first_layer_temperature] T0\n{if (first_layer_print_min[0] > 100 || first_layer_print_max[0] > 100 || first_layer_print_min[1] > 100 || first_layer_print_max[1] > 100 || first_layer_print_min[0] < -100 || first_layer_print_max[0] < -100 || first_layer_print_min[1] < -100 || first_layer_print_max[1] < -100)}M190 S[first_layer_bed_temperature] A1 B1{else}M190 S[first_layer_bed_temperature] A1 B0{endif}\nG1 Z150 F6000\nG1 X-160 Y0 Z0.4 F4000\nG92 E0\nG3 X0 Y-160 I160 J0 Z0.3 E30 F2000\nG1 Z2 F2000\nG92 E0\nSET_TMC_CURRENT STEPPER=extruder CURRENT=0.8",
     "change_filament_gcode": "PAUSE",
     "machine_pause_gcode": "PAUSE",
