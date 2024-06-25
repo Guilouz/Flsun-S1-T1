@@ -13,6 +13,7 @@ Improved configuration files for FLSUN S1
 - Fixed `UNLOAD_FILAMENT` macro to purge filament before retraction to avoid clogging.
 - Fixed filament sensor detection. The pause was carried out as soon as the detector was triggered, which caused a significant loss of filament (approximately 600/650mm).
 - Fixed the limitation of Z-Offset. It could only be applied in the range .02 to .05.
+- Fixed `CANCEL_PRINT` macro to avoid hothend hit drying box when print is cancelled and hotend is placed at the front of the bed.
 - Other minor fixes.
 
 ### NEEDED TO TEST
