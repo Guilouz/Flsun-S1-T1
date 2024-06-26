@@ -10,7 +10,7 @@ Improved configuration files for FLSUN S1
 - Added support for `M106 P3 Sxx` to control Chamber Fan with OrcaSlicer.
 - Added `LASER_CALIBRATION` macro.
 - Improved Bed Mesh.
-- Improved `BED_LEVEL_1` and `BED_LEVEL_2` macros allow user to choose the temperature of bed and hotend for Delta Calibration and Bed Leveling, by default hotend is set to 140C° and bed to 60C° (only on Web-UI not from the screen).
+- Improved `BED_LEVEL_1` and `BED_LEVEL_2` macros to allow user to choose the temperature of bed and hotend for Delta Calibration and Bed Leveling, by default hotend is set to 140C° and bed to 60C° (only on Web-UI not from the screen).
 - Fixed `UNLOAD_FILAMENT` macro to purge filament before retraction to avoid clogging.
 - Fixed filament sensor detection. The pause was carried out as soon as the detector was triggered, which caused a significant loss of filament (approximately 600/650mm).
 - Fixed the limitation of Z-Offset. It could only be applied in the range .02 to .05 (only on Web-UI not from the screen).
