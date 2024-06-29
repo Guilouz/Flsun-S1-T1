@@ -201,6 +201,10 @@
             "sub_path": "filament/FLSun S1 PLA Silk.json"
         },
         {
+            "name": "FLSun S1 PLA Generic",
+            "sub_path": "filament/FLSun S1 PLA Generic.json"
+        },
+        {
             "name": "FLSun S1 PETG",
             "sub_path": "filament/FLSun S1 PETG.json"
         },
@@ -211,6 +215,10 @@
         {
             "name": "FLSun S1 TPU",
             "sub_path": "filament/FLSun S1 TPU.json"
+        },
+        {
+            "name": "FLSun S1 ABS",
+            "sub_path": "filament/FLSun S1 ABS.json"
         }
     ],
     "machine_list": [
