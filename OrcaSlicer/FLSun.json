@@ -207,6 +207,10 @@
         {
             "name": "FLSun S1 ASA",
             "sub_path": "filament/FLSun S1 ASA.json"
+        },
+        {
+            "name": "FLSun S1 TPU",
+            "sub_path": "filament/FLSun S1 TPU.json"
         }
     ],
     "machine_list": [
