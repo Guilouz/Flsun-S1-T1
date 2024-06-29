@@ -11,7 +11,7 @@
   "bottom_surface_pattern": "monotonicline",
   "bridge_acceleration": "5000",
   "default_acceleration": "32000",
-  "default_jerk": "0",
+  "default_jerk": "200",
   "elefant_foot_compensation": "0.15",
   "gap_infill_speed": "400",
   "infill_jerk": "600",
