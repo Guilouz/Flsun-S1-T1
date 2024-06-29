@@ -55,7 +55,7 @@
   "top_surface_acceleration": "12000",
   "top_surface_jerk": "20",
   "top_surface_line_width": "0.40",
-  "top_surface_speed": "300",
+  "top_surface_speed": "250",
   "top_shell_thickness": "0.96",
   "travel_acceleration": "32000",
   "travel_jerk": "600",
