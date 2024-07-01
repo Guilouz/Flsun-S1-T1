@@ -9,6 +9,7 @@ Improved configuration files for FLSUN S1
 - Added `M600` functionnality (hotend heating stopped after 15min of inactivity).
 - Added support for `M106 P3 Sxx` to control Chamber Fan with OrcaSlicer.
 - Added `LASER_CALIBRATION` macro.
+- Added `PID_BED` and `PID_HOTEND` macros.
 - Improved Bed Mesh.
 - Improved resonance measurement, measurements are now carried out over the entire range from 1 to 133MHz instead of 20Mhz to 80Mhz.
 - Improved `BED_LEVEL_1` and `BED_LEVEL_2` macros to allow user to choose the temperature of bed and hotend for Delta Calibration and Bed Leveling, by default hotend is set to 140C° and bed to 60C° (only on Web-UI not from the screen).
