@@ -16,3 +16,7 @@ Theme for Mainsail
   - main-background.png
   
   - sidebar-logo.png
+  
+  - sidebar-background.png
+  
+  - sidebar-background-light.png
