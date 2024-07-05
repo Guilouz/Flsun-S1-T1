@@ -13,7 +13,7 @@ Improved configuration files for FLSUN S1
 - Improved Bed Mesh.
 - Improved resonance measurement, measurements are now carried out over the entire range from 1 to 133MHz instead of 20Mhz to 80Mhz.
 - Improved `BED_LEVEL_1` and `BED_LEVEL_2` macros to allow user to choose the temperature of bed and hotend for Delta Calibration and Bed Leveling, by default hotend is set to 140C° and bed to 60C° (only on Web-UI not from the screen).
-- Fixed `UNLOAD_FILAMENT` macro to purge filament before retraction to avoid clogging.
+- Fixed `UNLOAD_FILAMENT` macro to heat nozzle to 240C° by default (or choose hotend temp from macro) and purge filament before retraction to avoid clogging.
 - Fixed filament sensor detection. The pause was carried out as soon as the detector was triggered, which caused a significant loss of filament (approximately 600/650mm).
 - Fixed the limitation of Z-Offset. It could only be applied in the range .02 to .05 (only on Web-UI not from the screen).
 - Fixed `CANCEL_PRINT` macro to prevent the hotend from hitting drying box when print is cancelled and hotend is placed at the front of the bed.
