@@ -1,7 +1,8 @@
 # FLSUN S1
 Theme for Mainsail
 
-![1717481915912_S1_banner](https://github.com/Guilouz/Flsun-S1/assets/12702322/9e41a6b0-dbc6-4a94-a95f-e4d0dd13ed8c)
+<img width="1920" alt="Capture d’écran 2024-07-07 à 19 33 21" src="https://github.com/Guilouz/Flsun-S1/assets/12702322/fd2611cb-10aa-43dc-9f95-ef896009f5c2">
+
 
 - To install this theme, go to the Mainsail Web interface via your web browser by entering the IP address of your RFLSUN S1.
 
@@ -20,3 +21,6 @@ Theme for Mainsail
   - sidebar-background.png
   
   - sidebar-background-light.png
+
+
+
