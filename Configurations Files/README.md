@@ -5,7 +5,10 @@ Improved configuration files for FLSUN S1
 
 ### WARNING
 
-You need to redo all calibrations before printing when using this configuration files.
+- You need to redo all calibrations before printing when using this configuration files. To do this, run these macros in this order:
+   - `CALIBRATE_MOTOR` to start Motors Calibration
+   - `BED_LEVEL_1` to start Delta Calibration, after Klipper restart Bed Leveling will be runned automatically
+   - `MEASURING_RESONANCES` to start measuring Resonances
  
 ### WHAT’S NEW IN THE IMPROVED VERSION?
 
