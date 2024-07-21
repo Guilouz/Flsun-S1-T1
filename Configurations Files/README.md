@@ -26,6 +26,11 @@ Improved configuration files for FLSUN S1
 - Fixed `CANCEL_PRINT` macro to prevent the hotend from hitting drying box when print is cancelled and hotend is placed at the front of the bed.
 - Other minor fixes.
 
+### CHANGELOG
+
+- **21/07/2024:**
+  - Updated configuration files for firmware 1.0.4.4
+
 ### NEEDED TO TEST
 
 - `M600` functionality.
