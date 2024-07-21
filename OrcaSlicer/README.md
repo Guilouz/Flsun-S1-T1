@@ -12,15 +12,33 @@ Integration of FLSUN S1 in OrcaSlicer
 - **Windows:**
   - Close OrcaSlicer if it's currently open.
   - Go to the OrcaSlicer installation folder, by default: `C:\Program Files\OrcaSlicer`.
-  - Go to the `\resources\profile` folder.
-  - Copy & Replace files into OrcaSlicer installation folder.
+  - Go to the `\resources\profiles` folder.
+  - Replace `FLSun.json` files in `profiles` folder.
+  - Go to the `FLSun` folder.
+  - Copy `FLSun S1_cover.png`, `flsun_s1_buildplate_model.stl` and `flsun_s1_buildplate_texture.png` files in `FLSun` folder.
+  - Go to the `filaments` folder.
+  - Copy all filament files in `filament` folder.
+  - Go to the `machine` folder.
+  - Copy all machine files in `machine` folder.
+  - Go to the `process` folder.
+  - Copy all process files in `process` folder.
+  - Start OrcaSlicer and add new printer.
 
 - **MacOS:**
   - Close OrcaSlicer if it's currently open.
   - Go to your `Applications` folder.
   - Right click on the `OrcaSlicer.app` application then `Show package contents`.
-  - Go to the `\resources\profile` folder.
-  - Copy & Replace files into OrcaSlicer installation folder.
+  - Go to the `\Resources\profiles` folder.
+  - Replace `FLSun.json` files in `profiles` folder.
+  - Go to the `FLSun` folder.
+  - Copy `FLSun S1_cover.png`, `flsun_s1_buildplate_model.stl` and `flsun_s1_buildplate_texture.png` files in `FLSun` folder.
+  - Go to the `filaments` folder.
+  - Copy all filament files in `filament` folder.
+  - Go to the `machine` folder.
+  - Copy all machine files in `machine` folder.
+  - Go to the `process` folder.
+  - Copy all process files in `process` folder.
+  - Start OrcaSlicer and add new printer.
 
 <br />
 
