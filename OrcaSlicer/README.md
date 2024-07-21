@@ -18,8 +18,10 @@ Integration of FLSUN S1 in OrcaSlicer
   - Copy `FLSun S1_cover.png`, `flsun_s1_buildplate_model.stl` and `flsun_s1_buildplate_texture.png` files in `FLSun` folder.
   - Go to the `filaments` folder.
   - Copy all filament files in `filament` folder.
+  - Go back to the `FLSun` folder.
   - Go to the `machine` folder.
   - Copy all machine files in `machine` folder.
+  - Go back to the `FLSun` folder.
   - Go to the `process` folder.
   - Copy all process files in `process` folder.
   - Start OrcaSlicer and add new printer.
@@ -34,8 +36,10 @@ Integration of FLSUN S1 in OrcaSlicer
   - Copy `FLSun S1_cover.png`, `flsun_s1_buildplate_model.stl` and `flsun_s1_buildplate_texture.png` files in `FLSun` folder.
   - Go to the `filaments` folder.
   - Copy all filament files in `filament` folder.
+  - Go back to the `FLSun` folder.
   - Go to the `machine` folder.
   - Copy all machine files in `machine` folder.
+  - Go back to the `FLSun` folder.
   - Go to the `process` folder.
   - Copy all process files in `process` folder.
   - Start OrcaSlicer and add new printer.
