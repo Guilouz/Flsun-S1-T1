@@ -29,7 +29,7 @@ Improved configuration files for FLSUN S1
 ### CHANGELOG
 
 - **21/07/2024:**
-  - Updated configuration files for firmware 1.0.4.4
+  - Updated configuration files for firmware 1.0.4.4.
 
 ### NEEDED TO TEST
 
