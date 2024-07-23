@@ -5,3 +5,5 @@ Sources from FLSUN S1
 
 - [Klipper](https://github.com/Guilouz/Flsun-S1-Klipper)
 - [Moonraker](https://github.com/Guilouz/Flsun-S1-Moonraker)
+
+- [FlsunSlicer](https://github.com/Flsun3d/FlsunSlicer)
