@@ -36,7 +36,7 @@ Sources from FLSUN S1
     - /klippy/toolhead.py
     - /klippy/webhook.py
     - /lib/cmsis-core/core_cm7.h
-    - /lib/kmconfig/menuconfig.py
+    - /lib/kconfiglib/menuconfig.py
     - /lib/samd21/samd21a/include/pio/samd21j16a.h
     - /lib/samd21/samd21a/include/pio/samd21j17a.h
   
