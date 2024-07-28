@@ -18,7 +18,7 @@ Improved configuration files for FLSUN S1
 - Added `LASER_CALIBRATION` macro.
 - Added `PID_BED` and `PID_HOTEND` macros.
 - Improved Bed Mesh.
-- Improved resonance measurement, measurements are now carried out over the entire range from 1 to 133MHz instead of 20Mhz to 80Mhz.
+- Improved resonance measurement, measurements are now carried out over the entire range from 1 to 133Hz instead of 20Hz to 80Hz.
 - Improved `BED_LEVEL_1` and `BED_LEVEL_2` macros to allow user to choose the temperature of bed and hotend for Delta Calibration and Bed Leveling, by default hotend is set to 140C° and bed to 60C° (only on Web-UI not from the screen).
 - Fixed `UNLOAD_FILAMENT` macro to heat nozzle to 240C° by default (or choose hotend temp from macro) and purge filament before retraction to avoid clogging.
 - Fixed filament sensor detection. The pause was carried out as soon as the detector was triggered, which caused a significant loss of filament (approximately 600/650mm).
