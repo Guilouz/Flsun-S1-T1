@@ -4,7 +4,7 @@
 
 ## :inbox_tray: Repo Download Link
 
-<a href="[https://ko-fi.com/guilouz](https://github.com/Guilouz/Flsun-S1/archive/refs/heads/main.zip)" target="_blank"><img src="https://github.com/user-attachments/assets/81a7cdc5-f275-4d03-866e-e79ea5661ae4"></a>
+<a href="https://github.com/Guilouz/Flsun-S1/archive/refs/heads/main.zip" target="_blank"><img src="https://github.com/user-attachments/assets/81a7cdc5-f275-4d03-866e-e79ea5661ae4"></a>
 
 <br />
 
