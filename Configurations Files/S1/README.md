@@ -3,14 +3,14 @@ Improved configuration files for FLSUN S1
 
 ![Banner](https://github.com/user-attachments/assets/a2ebd6cd-e430-4d7b-a240-a8cac461b0c7)
 
-### WARNING
+## WARNING
 
 - You need to redo all calibrations before printing when using this configuration files. To do this, run these macros in this order:
    - `CALIBRATE_MOTOR` to start Motors Calibration
    - `BED_LEVEL_1` to start Delta Calibration, after Klipper restart Bed Leveling will be runned automatically
    - `MEASURING_RESONANCES` to start measuring Resonances
  
-### WHAT’S NEW IN THE IMPROVED VERSION?
+## WHAT’S NEW IN THE IMPROVED VERSION?
 
 - Reorganizing configuration files for clarity.
 - Added `M600` functionality (hotend heating stopped after 15min of inactivity).
@@ -26,12 +26,12 @@ Improved configuration files for FLSUN S1
 - Fixed `CANCEL_PRINT` macro to prevent the hotend from hitting drying box when print is cancelled and hotend is placed at the front of the bed.
 - Other minor fixes.
 
-### CHANGELOG
+## CHANGELOG
 
 - **21/07/2024:**
   - Updated configuration files for firmware 1.0.4.4.
 
-### NEEDED TO TEST
+## NEEDED TO TEST
 
 - `M600` functionality.
 - Try lower arc resolution like 0.1 (to see if the machine will be able to support a lower resolution without to crash due to its low RAM).
