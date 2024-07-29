@@ -2,6 +2,12 @@
 
 ![Banner](https://github.com/user-attachments/assets/a2ebd6cd-e430-4d7b-a240-a8cac461b0c7)
 
+<br />
+
+**EXPLOIT FOR SSH ACCESS ON S1 & T1 WILL BE RELEASED SOON! 🙂**
+
+<br />
+
 ## :inbox_tray: Repo Download Link
 
 <a href="https://github.com/Guilouz/Flsun-S1/archive/refs/heads/main.zip" target="_blank"><img src="https://github.com/user-attachments/assets/696ef1b2-ce28-4c0d-b8b5-58ccd66d822b"></a>
