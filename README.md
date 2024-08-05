@@ -4,11 +4,11 @@
 
 <br />
 
-**EXPLOIT FOR SSH ACCESS ON S1 & T1 WILL BE RELEASED SOON! 🙂**
+**OPEN SOURCE FOR S1 & T1 WILL BE RELEASED SOON! 🙂**
 
-**FOR S1 USERS: DO NOT UPDATE ABOVE VERSION 1.0.4.4. TTL CONSOLE, SSH SERVICE AND USB UPDATE ARE REMOVED.**
+**From FLSUN:** _Recently, we have noticed a strong demand from some users for open source firmware. In response to this demand, we have decided to collaborate with community leader Cyril Guislain to jointly develop third-party open source firmware. Our planning is already underway and the progress will be fast. Once the open source firmware reaches a fully stable state, we will release it immediately._
 
-**FOR T1 USERS: DO NOT UPDATE ABOVE VERSION 1.0.5.6.**
+_We are positive about supporting the community. We believe that by working closely with the community, we can better meet the needs of users and promote continuous improvement and innovation of products. We encourage users to provide us feedback through our official channels at any time or directly to Cyril when they encounter any problems or have further needs. We value every feedback and regard it as an important resource for product improvement and innovation._
 
 <br />
 
