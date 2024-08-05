@@ -1,5 +1,5 @@
-# FLSUN S1
-Integration of FLSUN S1 in OrcaSlicer
+# FLSUN S1 & T1
+Integration of FLSUN S1 and T1 in OrcaSlicer
 
 ![Banner](https://github.com/user-attachments/assets/a2ebd6cd-e430-4d7b-a240-a8cac461b0c7)
 
@@ -15,7 +15,7 @@ Integration of FLSUN S1 in OrcaSlicer
   - Go to the `\resources\profiles` folder.
   - Replace `FLSun.json` files in `profiles` folder.
   - Go to the `FLSun` folder.
-  - Copy `FLSun S1_cover.png`, `flsun_s1_buildplate_model.stl` and `flsun_s1_buildplate_texture.png` files in `FLSun` folder.
+  - Copy `FLSun S1_cover.png`, `FLSun T1_cover.png`, `FLSun_S1_buildplate_model.stl`, `FLSun_T1_buildplate_model.stl`, `FLSun_S1_buildplate_texture.png` and `FLSun_T1_buildplate_texture.png` files in `FLSun` folder.
   - Go to the `filaments` folder.
   - Copy all filament files in `filament` folder.
   - Go back to the `FLSun` folder.
@@ -33,7 +33,7 @@ Integration of FLSUN S1 in OrcaSlicer
   - Go to the `\Resources\profiles` folder.
   - Replace `FLSun.json` files in `profiles` folder.
   - Go to the `FLSun` folder.
-  - Copy `FLSun S1_cover.png`, `flsun_s1_buildplate_model.stl` and `flsun_s1_buildplate_texture.png` files in `FLSun` folder.
+  - Copy `FLSun S1_cover.png`, `FLSun T1_cover.png`, `FLSun_S1_buildplate_model.stl`, `FLSun_T1_buildplate_model.stl`, `FLSun_S1_buildplate_texture.png` and `FLSun_T1_buildplate_texture.png` files in `FLSun` folder.
   - Go to the `filaments` folder.
   - Copy all filament files in `filament` folder.
   - Go back to the `FLSun` folder.
@@ -50,7 +50,7 @@ Integration of FLSUN S1 in OrcaSlicer
 
   <img width="600" alt="Capture d’écran 2024-06-25 à 09 17 03" src="https://github.com/Guilouz/Flsun-S1/assets/12702322/00d197f4-0866-4240-abbf-c340c9b9bbcd">
 
-- My configuration integrates the management of bed zones according to the location of the model:
+- For FLSUN S1, my configuration integrates the management of bed zones according to the location of the model:
 
   ![Bed Control Orca](https://github.com/Guilouz/Flsun-S1/assets/12702322/148171fa-879f-477f-b866-27d09f2a547d)
 
