@@ -46,9 +46,9 @@ Integration of FLSUN S1 and T1 in OrcaSlicer
 
 <br />
 
-- You can now add FLSUN S1 in printer settings:
+- You can now add FLSUN S1 and T1 in printer settings:
 
-  <img width="600" alt="Capture d’écran 2024-06-25 à 09 17 03" src="https://github.com/Guilouz/Flsun-S1/assets/12702322/00d197f4-0866-4240-abbf-c340c9b9bbcd">
+  <img width="700" src="https://github.com/user-attachments/assets/4fb8e7b7-c32d-4986-913d-e4029c1b8684">
 
 - For FLSUN S1, my configuration integrates the management of bed zones according to the location of the model:
 
