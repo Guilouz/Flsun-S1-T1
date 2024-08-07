@@ -16,3 +16,12 @@ My models for FLSUN S1
 - Dessicant Box: <a href="https://www.printables.com/model/920024-flsun-s1-dessicant-box">Printables</a> / <a href="https://makerworld.com/en/models/505915">Makerworld</a>
 
   ![capture-decran-2024-06-22-a-1222](https://github.com/Guilouz/Flsun-S1/assets/12702322/36d61081-5ada-4570-a09a-b896f2238de6)
+
+- Stock Fanduct for S1: <a href="https://www.printables.com/model/967452-flsun-s1-stock-fanduct">Printables</a> / <a href="https://makerworld.com/en/models/577439">Makerworld</a>
+
+  <img width="743" alt="Capture d’écran 2024-08-07 à 22 20 48" src="https://github.com/user-attachments/assets/635ecc99-28d4-4b14-97d5-176c13b983fe">
+
+- Stock Fanduct for T1: <a href="https://www.printables.com/model/967458-flsun-t1-stock-fanduct">Printables</a> / <a href="https://makerworld.com/en/models/577444">Makerworld</a>
+
+  <img width="743" alt="Capture d’écran 2024-08-07 à 22 23 51" src="https://github.com/user-attachments/assets/a3a653d3-bed7-40d4-acfd-bc5512cc0d0c">
+
