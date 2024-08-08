@@ -28,7 +28,7 @@ This can be useful if the accuracy of your dimensions is not acceptable.
 - If you notice a deviation in X, enter this command by replacing `zz`  by your measured value (Note: T is the expected value):
 
   ```
- M101 Xzz T20
+  M101 Xzz T20
   ```
 
 - Wait for Klipper to restart.
@@ -36,7 +36,7 @@ This can be useful if the accuracy of your dimensions is not acceptable.
 - If you notice a deviation in Y, enter this command by replacing `zz`  by your measured value (Note: T is the expected value):
  
   ```
- M101 Yzz T20
+  M101 Yzz T20
   ```
 
 - Wait for Klipper to restart.
