@@ -15,7 +15,7 @@ This can be useful if the accuracy of your dimensions is not acceptable.
   M100 S1
   ```
 
-- Once calibration is done, download this calibration cube: <a href="https://www.printables.com/model/118657-calibration-cube">Printables</a>.
+- Once calibration is done, download this calibration cube: <a href="https://www.printables.com/model/118657-calibration-cube">Printables</a>
 
 - Slice it and print it.
 
