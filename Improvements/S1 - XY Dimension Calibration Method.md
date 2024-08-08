@@ -25,7 +25,7 @@ This can be useful if the accuracy of your dimensions is not acceptable.
 
 - Go to your **Mainsail** Web interface then select the `CONSOLE` tab on the left side.
 
-- If you notice a deviation in X, enter this command by replacing `zz`  by your measured value (Note: T is the expected value):
+- If you notice a deviation in X, enter this command by replacing `zz`  by your measured value in X (Note: T is the expected value):
 
   ```
   M101 Xzz T20
@@ -33,7 +33,7 @@ This can be useful if the accuracy of your dimensions is not acceptable.
 
 - Wait for Klipper to restart.
 
-- If you notice a deviation in Y, enter this command by replacing `zz`  by your measured value (Note: T is the expected value):
+- If you notice a deviation in Y, enter this command by replacing `zz`  by your measured value in Y (Note: T is the expected value):
  
   ```
   M101 Yzz T20
