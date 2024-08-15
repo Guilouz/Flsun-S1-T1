@@ -1,8 +1,13 @@
 # FLSUN S1 & T1
 Themes for Mainsail
 
-<img width="1920" alt="Capture d’écran 2024-07-07 à 19 33 21" src="https://github.com/Guilouz/Flsun-S1/assets/12702322/fd2611cb-10aa-43dc-9f95-ef896009f5c2">
+| Dark Theme |
+| :---------: |
+| <img width="1920" src="https://github.com/user-attachments/assets/0d3605cc-0a92-4717-89c3-35b15ee962bc"> |
 
+| Light Theme |
+| :---------: |
+| <img width="1920" src="https://github.com/user-attachments/assets/0344edad-c045-4702-8bdc-bb894dff891b"> |
 
 - To install theme, go to the Mainsail Web interface via your web browser by entering the IP address of your printer.
 
