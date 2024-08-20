@@ -3,9 +3,7 @@ Integration of FLSUN S1 and T1 in OrcaSlicer
 
 ![Banner](https://github.com/user-attachments/assets/a2ebd6cd-e430-4d7b-a240-a8cac461b0c7)
 
-- **Note:** 
-My profiles for S1 and T1 are now merged on official repository
-  - Requires minimum OrcaSlicer version 2.1.0 (<a href="https://github.com/SoftFever/OrcaSlicer/releases">Download</a>)
+My profiles for S1 and T1 are now merged on the official repository and require OrcaSlicer Nightly Build available here: <a href="https://github.com/SoftFever/OrcaSlicer/releases/tag/nightly-builds">Download</a>
  
 
 <br />
@@ -17,4 +15,5 @@ My profiles for S1 and T1 are now merged on official repository
 - For FLSUN S1, my configuration integrates the management of bed zones according to the location of the model:
 
   ![Bed Control Orca](https://github.com/Guilouz/Flsun-S1/assets/12702322/148171fa-879f-477f-b866-27d09f2a547d)
+
 
