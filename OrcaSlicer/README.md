@@ -4,49 +4,13 @@ Integration of FLSUN S1 and T1 in OrcaSlicer
 ![Banner](https://github.com/user-attachments/assets/a2ebd6cd-e430-4d7b-a240-a8cac461b0c7)
 
 - **Note:** 
+My profiles for S1 and T1 are now merged on official repository
   - Requires minimum OrcaSlicer version 2.1.0 (<a href="https://github.com/SoftFever/OrcaSlicer/releases">Download</a>)
-  - More types of filament will be added later
  
-## INSTALLATION
-
-- **Windows:**
-  - Close OrcaSlicer if it's currently open.
-  - Go to the OrcaSlicer installation folder, by default: `C:\Program Files\OrcaSlicer`.
-  - Go to the `\resources\profiles` folder.
-  - Replace `FLSun.json` files in `profiles` folder.
-  - Go to the `FLSun` folder.
-  - Copy `FLSun S1_cover.png`, `FLSun T1_cover.png`, `FLSun_S1_buildplate_model.stl`, `FLSun_T1_buildplate_model.stl`, `FLSun_S1_buildplate_texture.png` and `FLSun_T1_buildplate_texture.png` files in `FLSun` folder.
-  - Go to the `filaments` folder.
-  - Copy all filament files in `filament` folder.
-  - Go back to the `FLSun` folder.
-  - Go to the `machine` folder.
-  - Copy all machine files in `machine` folder.
-  - Go back to the `FLSun` folder.
-  - Go to the `process` folder.
-  - Copy all process files in `process` folder.
-  - Start OrcaSlicer and add new printer.
-
-- **MacOS:**
-  - Close OrcaSlicer if it's currently open.
-  - Go to your `Applications` folder.
-  - Right click on the `OrcaSlicer.app` application then `Show package contents`.
-  - Go to the `\Resources\profiles` folder.
-  - Replace `FLSun.json` files in `profiles` folder.
-  - Go to the `FLSun` folder.
-  - Copy `FLSun S1_cover.png`, `FLSun T1_cover.png`, `FLSun_S1_buildplate_model.stl`, `FLSun_T1_buildplate_model.stl`, `FLSun_S1_buildplate_texture.png` and `FLSun_T1_buildplate_texture.png` files in `FLSun` folder.
-  - Go to the `filaments` folder.
-  - Copy all filament files in `filament` folder.
-  - Go back to the `FLSun` folder.
-  - Go to the `machine` folder.
-  - Copy all machine files in `machine` folder.
-  - Go back to the `FLSun` folder.
-  - Go to the `process` folder.
-  - Copy all process files in `process` folder.
-  - Start OrcaSlicer and add new printer.
 
 <br />
 
-- You can now add FLSUN S1 and T1 in Printer Selection:
+- You can add FLSUN S1 and T1 in Printer Selection:
 
   <img width="700" src="https://github.com/user-attachments/assets/4fb8e7b7-c32d-4986-913d-e4029c1b8684">
 
