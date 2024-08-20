@@ -5,7 +5,6 @@ Integration of FLSUN S1 and T1 in OrcaSlicer
 
 My profiles for S1 and T1 are now merged on the official repository and require OrcaSlicer Nightly Build available here: <a href="https://github.com/SoftFever/OrcaSlicer/releases/tag/nightly-builds">Download</a>
  
-
 <br />
 
 - You can add FLSUN S1 and T1 in Printer Selection:
@@ -15,5 +14,3 @@ My profiles for S1 and T1 are now merged on the official repository and require 
 - For FLSUN S1, my configuration integrates the management of bed zones according to the location of the model:
 
   ![Bed Control Orca](https://github.com/Guilouz/Flsun-S1/assets/12702322/148171fa-879f-477f-b866-27d09f2a547d)
-
-
