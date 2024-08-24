@@ -7,15 +7,7 @@ This can be useful if the accuracy of your dimensions is not acceptable.
 
 ## CALIBRATION
 
-- Make sure the door of the printer is closed.
-
-- Go to your **Mainsail** Web interface then select the `CONSOLE` tab on the left side and enter this command to calibrate the camera:
-
-  ```
-  M100 S1
-  ```
-
-- Once calibration is done, download this calibration cube: <a href="https://www.printables.com/model/118657-calibration-cube">Printables</a>
+- Download this calibration cube: <a href="https://www.printables.com/model/118657-calibration-cube">Printables</a>
 
 - Slice it and print it.
 
