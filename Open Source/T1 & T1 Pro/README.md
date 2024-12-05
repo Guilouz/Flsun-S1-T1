@@ -191,6 +191,6 @@ This exploit has been confirmed to work on the following firmware versions:
 
     - It's possible but the old version used by FLSUN has several modifications to support some features (some changes need to be added to the official Klipper version) and the motherboard firmware also needs to be updated.
 
-- **Can I install Moonraker Timalapse?**
+- **Can I install Moonraker Timelapse?**
 
     - Yes you can. Moonraker Timelapse is a 3rd party Moonraker component to create timelapse of 3D prints.
