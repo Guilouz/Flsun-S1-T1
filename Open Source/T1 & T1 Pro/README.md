@@ -25,6 +25,7 @@ This exploit has been confirmed to work on the following firmware versions:
 - :zap: [HOW TO USE EXPLOIT](#zap-how-to-use-exploit)
 - :link: [CONNECT TO SSH](#link-connect-to-ssh)
 - :earth_americas: [BLOCK / RESTORE OTA UPDATES](#earth_americas-block--restore-ota-updates)
+- :question: [QUESTIONS / ANSWERS](#question-questions--answers)
 
 <br /><br />
 
@@ -155,3 +156,16 @@ This exploit has been confirmed to work on the following firmware versions:
     sed -i '/api.flsunworld.com/d' /etc/hosts
     ```
 
+<br /><br />
+
+## :question: QUESTIONS / ANSWERS
+
+<br />
+
+- **What I can do with SSH access?**
+
+    - This allows you to have full access to the system, to install new things (Spoolman for example), to be free to do what you want on the machine. Many of the elements used on the printer are open source, so they should be easily accessible.
+
+- **Can I update when new firmware is available?**
+
+    - Yes it is possible but the exploit will have to be redone (provided it is not fixed in future updates, I added an exit door just in case).
