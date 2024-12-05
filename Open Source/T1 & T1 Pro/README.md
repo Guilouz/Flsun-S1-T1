@@ -175,3 +175,22 @@ This exploit has been confirmed to work on the following firmware versions:
 
     - If you don't know and at least understand what you are doing, there is no interest to access to SSH. FLSUN doesn't distribute any recovery image to restore the system in case of a problem, so you have to be careful with what you do or you will render the printer unusable.
 
+- **Can I install Kiauh?**
+
+    - Yes you can. Kiauh is a script that assists you in installing many things on your printer.
+
+- **Can I update Mainsail without issue?**
+
+    - Yes you can. Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
+
+- **Can I update Moonraker without issue?**
+
+    - Yes you can. Moonraker is a Python 3 based web server that exposes APIs with which client applications may use to interact with Klipper firmware.
+
+- **Can I update Klipper without issue?**
+
+    - It's possible but the old version used by FLSUN has several modifications to support some features (some changes need to be added to the official Klipper version) and the motherboard firmware also needs to be updated.
+
+- **Can I install Moonraker Timalapse?**
+
+    - Yes you can. Moonraker Timelapse is a 3rd party Moonraker component to create timelapse of 3D prints.
