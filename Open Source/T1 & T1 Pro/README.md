@@ -172,5 +172,5 @@ This exploit has been confirmed to work on the following firmware versions:
 
 - **If I'm not comfortable with Linux, should I do this?**
 
-    - If you don't know and at least understand what you're doing, there is no interest to access to SSH. FLSUN doesn't distribute any recovery image to restore the system in case of a problem, so you have to be careful with what you do or you will render the printer unusable.
+    - If you don't know and at least understand what you are doing, there is no interest to access to SSH. FLSUN doesn't distribute any recovery image to restore the system in case of a problem, so you have to be careful with what you do or you will render the printer unusable.
 
