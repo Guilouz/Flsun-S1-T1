@@ -169,7 +169,7 @@ This exploit has been confirmed to work on the following firmware versions:
 
 - **Can I update when a new firmware is available?**
 
-    - Yes it is possible but the exploit will have to be redone (provided it is not fixed in future updates, I added an exit door just in case).
+    - Yes it is possible but the exploit will have to be redone (provided it is not patched in future updates, I added an exit door just in case).
 
 - **If I'm not comfortable with Linux, should I do this?**
 
