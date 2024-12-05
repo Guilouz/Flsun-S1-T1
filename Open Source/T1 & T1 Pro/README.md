@@ -115,6 +115,7 @@ This exploit has been confirmed to work on the following firmware versions:
 
     <img width="1000" alt="Capture d’écran 2024-12-05 à 20 24 43" src="https://github.com/user-attachments/assets/ac98efd1-7b5c-4396-a5fd-2a55aa28ac2f">
 
+- I recommend first making a backup of the **`/home/pi`** folder in case of issues.
 
 <br /><br />
 
