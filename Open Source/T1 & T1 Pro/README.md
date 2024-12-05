@@ -166,6 +166,11 @@ This exploit has been confirmed to work on the following firmware versions:
 
     - This allows you to have full access to the system, to install new things (Spoolman for example), to be free to do what you want on the machine. Many of the elements used on the printer are open source, so they should be easily accessible.
 
-- **Can I update when new firmware is available?**
+- **Can I update when a new firmware is available?**
 
     - Yes it is possible but the exploit will have to be redone (provided it is not fixed in future updates, I added an exit door just in case).
+
+- **If I'm not comfortable with Linux, should I do this?**
+
+    - If you don't know and at least understand what you're doing, there is no interest to access to SSH. FLSUN doesn't distribute any recovery image to restore the system in case of a problem, so you have to be careful with what you do or you will render the printer unusable.
+
