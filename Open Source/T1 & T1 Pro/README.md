@@ -177,7 +177,7 @@ This exploit has been confirmed to work on the following firmware versions:
 
 - **Can I install Kiauh?**
 
-    - Yes you can. Kiauh is a script that assists you in installing many things on your printer.
+    - Yes you can, use v5 version. Kiauh is a script that assists you in installing many things on your printer.
 
 - **Can I update Mainsail without issue?**
 
