@@ -11,11 +11,11 @@ Specifications and pictures for FLSUN S1
 
 ### Extruder Motor
 
-![Extruder Motor](https://github.com/user-attachments/assets/2967d902-eb28-4556-8171-3ef137883682)
+<img width="650" src="https://github.com/user-attachments/assets/2967d902-eb28-4556-8171-3ef137883682">
 
 <br />
 
 ### Stepper Motor
 
-![Stepper Motor](https://github.com/user-attachments/assets/ef2c03a7-9d7a-4ebd-a764-2dfadee1f524)
+<img width="650" src="https://github.com/user-attachments/assets/ef2c03a7-9d7a-4ebd-a764-2dfadee1f524">
 
