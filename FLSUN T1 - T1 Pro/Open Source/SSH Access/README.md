@@ -33,7 +33,7 @@ This exploit has been confirmed to work on the following firmware versions:
 
 <br />
 
-- Download and unzip [SSH Access - T1 & T1 Pro.zip](https://github.com/Guilouz/Flsun-S1-T1/raw/refs/heads/main/Open%20Source/T1%20&%20T1%20Pro/SSH%20Access%20-%20T1%20&%20T1%20Pro.zip)
+- Download and unzip [SSH Access - T1 & T1 Pro.zip](https://github.com/Guilouz/Flsun-S1-T1/raw/refs/heads/main/FLSUN%20T1%20-%20T1%20Pro/Open%20Source/SSH%20Access/SSH%20Access%20-%20T1%20&%20T1%20Pro.zip)
 
 - Go to your **Mainsail** Web interface from your Web browser then select the **`MACHINE`** tab on the left side and drag and drop **`plr.sh`**, **`ssh.sh`** and **`ssh.cfg`** files from **`files`** folder.
 
