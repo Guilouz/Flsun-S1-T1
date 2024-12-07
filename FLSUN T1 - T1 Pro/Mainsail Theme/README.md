@@ -1,4 +1,4 @@
-# FLSUN S1 & T1
+# FLSUN T1 & T1 Pro
 Themes for Mainsail
 
 | Dark Theme |
