@@ -206,7 +206,7 @@ The date and time are changed by the exploit to ensure that the download is comp
 
 - **Can I install Kiauh?**
 
-    - Yes you can, use v5 version. Kiauh is a script that assists you in installing many things on your printer.
+    - Yes you can use v5 version, but don't use it to update Moonraker and Klipper. Kiauh is a script that assists you in installing many things on your printer.
 
 - **Can I update Mainsail without issue?**
 
