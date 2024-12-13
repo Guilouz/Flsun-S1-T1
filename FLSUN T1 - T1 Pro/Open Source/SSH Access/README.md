@@ -199,6 +199,10 @@ The date and time are changed by the exploit to ensure that the download is comp
 - **Can I update when a new firmware is available?**
 
     - Yes it is possible but the exploit will have to be redone (provided it is not patched in future updates, I added an exit door just in case).
+ 
+- **Can I reset to factory settings?**
+
+    - Yes it is possible.
 
 - **If I'm not comfortable with Linux, should I do this?**
 
