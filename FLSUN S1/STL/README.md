@@ -5,6 +5,8 @@ Models for FLSUN S1
 
 <br />
 
+- Silent Kit ([Flsun Wiki - Installation)](https://wiki.flsun3d.com/en/S1UpgradeSilentKit)
+
 - CPAP Turbo Fan Silencer V1: <a href="https://www.printables.com/model/903968-flsun-s1-cpap-turbo-fan-silencer">Printables</a> / <a href="https://makerworld.com/en/models/486267">Makerworld</a>
 
   ![capture-decran-2024-06-04-a-0015](https://github.com/Guilouz/Flsun-S1/assets/12702322/73e9d510-47f4-41e5-a227-be82677fe77e)
