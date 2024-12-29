@@ -7,6 +7,10 @@ Models for FLSUN S1
 
 - Silent Kit: [Flsun Wiki - Installation](https://wiki.flsun3d.com/en/S1UpgradeSilentKit)
 
+- Inside CPAP Bracket for Silent Kit: <a href="https://www.printables.com/model/1126085-flsun-s1-inside-cpap-bracket-for-silent-kit">Printables</a> / <a href="https://makerworld.com/fr/models/926927">Makerworld</a>
+
+  ![IMG_0262](https://github.com/user-attachments/assets/a7639e13-a1f5-4d78-aeb1-587679d48b58)
+
 - CPAP Turbo Fan Silencer V1: <a href="https://www.printables.com/model/903968-flsun-s1-cpap-turbo-fan-silencer">Printables</a> / <a href="https://makerworld.com/en/models/486267">Makerworld</a>
 
   ![capture-decran-2024-06-04-a-0015](https://github.com/Guilouz/Flsun-S1/assets/12702322/73e9d510-47f4-41e5-a227-be82677fe77e)
