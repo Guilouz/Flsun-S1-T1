@@ -4,6 +4,9 @@ Firmwares for FLSUN S1
 ![Banner](https://github.com/user-attachments/assets/a2ebd6cd-e430-4d7b-a240-a8cac461b0c7)
 
 > [!CAUTION]  
-> **DON'T INSTALL MOTHERBOARD FIRMWARE PROVIDED IN SILENT KIT UPGRADE GUIDE (https://wiki.flsun3d.com/en/S1UpgradeSilentKit), IT BREAK SOMETHING AND HEATERS NEVER STOPPED HEATING!**
+> **DON'T INSTALL MOTHERBOARD FIRMWARE PROVIDED IN SILENT KIT UPGRADE GUIDE HERE:<br />
+> https://wiki.flsun3d.com/en/S1UpgradeSilentKit<br />
+> IT REPLACE THE BOOTLOADER AND PREVENTS INSTALLING FIRMWARE FROM MICROSD CARD!<br />
+> IT IS NOT NECESSARY TO OPERATE THE NEW CPAP.**
 
-There is a several issue with this motherboard firmware here : https://drive.google.com/file/d/1WdLjsxMB836n0qlnYroi5YH55pAvl7nS/view
+The firmware in question: https://drive.google.com/file/d/1WdLjsxMB836n0qlnYroi5YH55pAvl7nS/view
