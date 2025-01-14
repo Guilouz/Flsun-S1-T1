@@ -15,8 +15,8 @@ This exploit allows to free SSH access on **T1** and **T1 Pro**.
 <br />
 
 This exploit has been confirmed to work on the following firmware versions:
-  - T1 → 1.0.8.7
-  - T1 Pro → 1.0.0.11
+  - T1 → up to 1.0.8.7
+  - T1 Pro → up to 1.0.0.11
 
 **DON'T UPDATE TO LATEST FIRMWARE! FLSUN BLOCKED THE EXPLOIT...**
 
