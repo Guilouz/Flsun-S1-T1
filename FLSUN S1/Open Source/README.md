@@ -20,6 +20,7 @@ Benchmark comparison between **STOCK OS** (Board flsun) and **Open Source Editio
   - MJPG-Streamer (latest build)<br />
   - Kiauh (latest build)<br />
   - Moonraker Timelapse<br />
+  - Klipper Print Time Estimator<br />
   - Preconfigured Web interfaces<br />
   - Improved configuration files (M600 support, Drying Box from Web UI support, etc...)<br />
   - Improved Power Loss Recovery<br />
