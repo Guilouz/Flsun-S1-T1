@@ -13,26 +13,25 @@ Benchmark comparison between **STOCK OS** (Board flsun) and **Open Source Editio
 
 **What's included:**
 
-  - Moonraker (latest build without modification)<br />
-  - Klipper (latest build with modifications for S1 support, repo is available <a href="https://github.com/Guilouz/Klipper-Flsun-S1">:material-github: here</a>)<br />
-  - KlipperScreen (latest build with modifications for S1 support, repo is available <a href="https://github.com/Guilouz/KlipperScreen-Flsun-S1">:material-github: here</a>)<br />
-  - Mainsail (latest build without modification)<br />
+  - Upgraded kernel a little faster and which gives access to the 1 GB of RAM (700 MB on Stock OS)<br />
+  - ZRAM swap to add extra 512 MB ram<br />
+  - Moonraker (latest build)<br />
+  - Klipper (latest build with modifications for S1 support, repo is available <a href="https://github.com/Guilouz/Klipper-Flsun-S1"> here</a>)<br />
+  - KlipperScreen (latest build with modifications for S1 support, repo is available <a href="https://github.com/Guilouz/KlipperScreen-Flsun-S1"> here</a>)<br />
+  - Mainsail (latest build)<br />
   - MJPG-Streamer (latest build)<br />
   - Kiauh (latest build)<br />
-  - Moonraker Timelapse<br />
-  - Klipper Print Time Estimator<br />
-  - Preconfigured Web interfaces<br />
-  - Improved configuration files (M600 support, Drying Box from Web UI support, etc...)<br />
+  - Pre-configured Web interfaces for Mainsail and Fluidd<br />
+  - Improved Klipper configuration files (M600 support, Drying Box from Web interfaces support, etc...)<br />
   - Improved Power Loss Recovery<br />
-  - Enhanced Delta Calibration support (More accurate and with denser coverage that allows better detection of variations of the bed or in the mechanics of the printer, which can improve print quality)<br />
-  - Bed Mesh Type before printing support (Full Bed Mesh, Adaptive Bed Mesh or No Mesh)<br />
-  - Adaptive Bed Heating feature<br />
-  - Easy Installer to facilitate programs installation and some actions with the simple **`easy-installer`** command in SSH
-  - Hostname based on MAC address<br />
-  - Automatic resizing of available storage space<br />
+  - Easy Installer feature to facilitate programs installation and some actions<br />
+  - Enhanced Delta Calibration feature (more accurate and better detection of variations of the bed or in the mechanics of the printer, which can improve print quality)<br />
+  - Bed Mesh Type before printing feature (Full Bed Mesh, Adaptive Bed Mesh or No Mesh)<br />
+  - Adaptive Bed Heating feature (heated bed area depending on the model size)<br />
+  - Moonraker Timelapse support<br />
+  - Klipper Print Time Estimator support <br />
   - BigTreeTech MMB Cubic support (Chamber Temperature Sensor and Neopixels)<br />
   - BigTreeTech Smart Filament Sensor V2.0 support<br />
-  - Possibility to install FLSUN OS on eMMC memory<br />
 
   > [!NOTE]
   > All AI features have been removed as they do not work as expected.<br />Only Power Loss Recovery and XY Dimension Calibration features have been kept.
