@@ -26,7 +26,7 @@ This exploit can only work on the following firmware versions:
 
 - :zap: [HOW TO USE EXPLOIT](#zap-how-to-use-exploit)
 - :link: [CONNECT TO SSH](#link-connect-to-ssh)
-- :anger: [UPDATE FIRMWARE](#update-firmware)
+- :anger: [UPDATE FIRMWARE](#anger-update-firmware)
 - :clock130: [UPDATE TIME ZONE](#clock130-update-time-zone)
 - :earth_americas: [BLOCK / RESTORE OTA UPDATES](#earth_americas-block--restore-ota-updates)
 - :question: [QUESTIONS / ANSWERS](#question-questions--answers)
@@ -129,8 +129,8 @@ It's possible to update firmware to latest version when exploit is done.
 
 - Download the official firmware modified to preserve SSH access and the latest version of Mainsail added:
 
-   - **T1**: <a href="https://github.com/Guilouz/Flsun-S1-T1/raw/refs/heads/main/FLSUN%20T1%20-%20T1%20Pro/Open%20Source/SSH%20Access/Updates/T1%20-%20Update%201.0.9.7%20(34)/upgrade.tar.gz">Update 1.0.9.7</a>
-   - **T1 Pro**: <a href="https://github.com/Guilouz/Flsun-S1-T1/raw/refs/heads/main/FLSUN%20T1%20-%20T1%20Pro/Open%20Source/SSH%20Access/Updates/T1%20Pro%20-%20Update%201.0.1.4%20(34)/upgrade.tar.gz"> Update 1.0.1.4</a>
+   **T1**: <a href="https://github.com/Guilouz/Flsun-S1-T1/raw/refs/heads/main/FLSUN%20T1%20-%20T1%20Pro/Open%20Source/SSH%20Access/Updates/T1%20-%20Update%201.0.9.7%20(34)/upgrade.tar.gz">Update 1.0.9.7</a>
+   **T1 Pro**: <a href="https://github.com/Guilouz/Flsun-S1-T1/raw/refs/heads/main/FLSUN%20T1%20-%20T1%20Pro/Open%20Source/SSH%20Access/Updates/T1%20Pro%20-%20Update%201.0.1.4%20(34)/upgrade.tar.gz"> Update 1.0.1.4</a>
 
 - Connect to SSH and **log in with the root user**:
 
