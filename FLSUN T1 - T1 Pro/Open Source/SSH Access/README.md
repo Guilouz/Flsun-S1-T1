@@ -14,7 +14,7 @@ This exploit allows to free SSH access on **T1** and **T1 Pro**.
 
 <br />
 
-This exploit has been confirmed to work on the following firmware versions:
+This exploit can only work on the following firmware versions:
   - T1 → up to 1.0.8.7
   - T1 Pro → up to 1.0.0.11
 
@@ -26,6 +26,7 @@ This exploit has been confirmed to work on the following firmware versions:
 
 - :zap: [HOW TO USE EXPLOIT](#zap-how-to-use-exploit)
 - :link: [CONNECT TO SSH](#link-connect-to-ssh)
+- :anger: [UPDATE FIRMWARE](#update-firmware)
 - :clock130: [UPDATE TIME ZONE](#clock130-update-time-zone)
 - :earth_americas: [BLOCK / RESTORE OTA UPDATES](#earth_americas-block--restore-ota-updates)
 - :question: [QUESTIONS / ANSWERS](#question-questions--answers)
@@ -119,6 +120,42 @@ This exploit has been confirmed to work on the following firmware versions:
     <img width="1000" alt="Capture d’écran 2024-12-05 à 20 24 43" src="https://github.com/user-attachments/assets/ac98efd1-7b5c-4396-a5fd-2a55aa28ac2f">
 
 - I recommend first making a backup of the **`/home/pi`** folder in case of issues.
+
+<br /><br />
+
+## :anger: UPDATE FIRMWARE
+
+It's possible to update firmware to latest version when exploit is done.
+
+- Download the official firmware modified to preserve SSH access and the latest version of Mainsail added:
+
+   - **T1**: <a href="https://github.com/Guilouz/Flsun-S1-T1/raw/refs/heads/main/FLSUN%20T1%20-%20T1%20Pro/Open%20Source/SSH%20Access/Updates/T1%20-%20Update%201.0.9.7%20(34)/upgrade.tar.gz">Update 1.0.9.7</a>
+   - **T1 Pro**: <a href="https://github.com/Guilouz/Flsun-S1-T1/raw/refs/heads/main/FLSUN%20T1%20-%20T1%20Pro/Open%20Source/SSH%20Access/Updates/T1%20Pro%20-%20Update%201.0.1.4%20(34)/upgrade.tar.gz"> Update 1.0.1.4</a>
+
+- Connect to SSH and **log in with the root user**:
+
+   User: **`root`** <br />
+   Password: **`flsun`**
+
+- On the left side of **MobaXterm** go to **`/home/pi`** folder and drag and drop **`upgrade.tar.gz`** firmware file previously downloaded.
+
+- In the SSH command prompt window, enter the following command to extract firmware:
+
+  ```
+  rm -rf /home/pi/upgrade && tar -xvzf /home/pi/upgrade.tar.gz -C /home/pi/
+  ```
+
+- And enter this command to start update:
+
+  ```
+  bash /home/pi/upgrade/update.sh
+  ```
+
+- You must have something similar to this:
+
+
+
+- When it's done you can reboot your printer.
 
 <br /><br />
 
