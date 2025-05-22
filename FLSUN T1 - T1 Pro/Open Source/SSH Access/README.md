@@ -127,9 +127,9 @@ This exploit can only work on the following firmware versions:
 
 It's possible to update firmware to latest version when exploit is done.
 
-- Download the official firmware modified to preserve SSH access and the latest version of Mainsail added:
+- Download the official firmware modified to preserve SSH access and the latest version of **Mainsail** added:
 
-   **T1**: <a href="https://github.com/Guilouz/Flsun-S1-T1/raw/refs/heads/main/FLSUN%20T1%20-%20T1%20Pro/Open%20Source/SSH%20Access/Updates/T1%20-%20Update%201.0.9.7%20(34)/upgrade.tar.gz">Update 1.0.9.7</a>
+   **T1**: <a href="https://github.com/Guilouz/Flsun-S1-T1/raw/refs/heads/main/FLSUN%20T1%20-%20T1%20Pro/Open%20Source/SSH%20Access/Updates/T1%20-%20Update%201.0.9.7%20(34)/upgrade.tar.gz">Update 1.0.9.7</a><br />
    **T1 Pro**: <a href="https://github.com/Guilouz/Flsun-S1-T1/raw/refs/heads/main/FLSUN%20T1%20-%20T1%20Pro/Open%20Source/SSH%20Access/Updates/T1%20Pro%20-%20Update%201.0.1.4%20(34)/upgrade.tar.gz"> Update 1.0.1.4</a>
 
 - Connect to SSH and **log in with the root user**:
@@ -153,7 +153,7 @@ It's possible to update firmware to latest version when exploit is done.
 
 - You must have something similar to this:
 
-
+  ![Sans titre-2](https://github.com/user-attachments/assets/07355812-6be2-4691-9a6f-e5a3fbf565eb)
 
 - When it's done you can reboot your printer.
 
