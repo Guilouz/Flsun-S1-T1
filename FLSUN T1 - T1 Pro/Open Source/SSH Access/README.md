@@ -4,6 +4,28 @@
 
 <br /><br />
 
+**Latest Stock firmwares for T1/T1 Pro now support SSH access:**
+
+  - **T1 → v1.0.9.8**<br />
+  - **T1 Pro → v1.0.1.5**
+
+
+**Credentials:**
+
+  - **User → `pi`**<br />
+  - **Password → `1`**
+
+> [!NOTE]
+> **If you used this guide before updating to this new Stock firmware, then the password remains unchanged and therefore remains: `flsun`**
+
+<br />
+
+**THIS GUIDE HAS THEREFORE BECOME OBSOLETE!**
+
+<hr>
+
+<br /><br />
+
 This exploit allows to free SSH access on **T1** and **T1 Pro**.
 
 <br />
@@ -15,8 +37,8 @@ This exploit allows to free SSH access on **T1** and **T1 Pro**.
 <br />
 
 This exploit can only work on the following firmware versions:
-  - T1 → up to 1.0.8.7
-  - T1 Pro → up to 1.0.0.11
+  - T1 → up to v1.0.8.7
+  - T1 Pro → up to v1.0.0.11
 
 **DON'T UPDATE TO LATEST FIRMWARE! FLSUN BLOCKED THE EXPLOIT...**
 
